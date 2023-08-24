@@ -1,2 +1,7 @@
 # nestjs-utils
-Utilitários nestjs
+
+## Dependencies
+
+- nestjs
+- rxjs
+- express
